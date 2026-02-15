@@ -1,0 +1,8 @@
+{
+  "name": "AuraShop AI - Premium E-commerce & Admin Suite",
+  "description": "A high-performance e-commerce platform featuring AI-powered product insights, real-time voice assistant, comprehensive shop management, and a powerful admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
